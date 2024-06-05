@@ -2,7 +2,7 @@
 
 I'm Tanya Pal, a web developer passionate about creating awesome things on the web. Welcome to my GitHub profile!
 
-🔭 I’m currently working on: CodSoft
+🔭 I’m currently working on: Oasis Infobyte
 
 🌱 I’m currently learning: Data Structure And Algorithms
 
