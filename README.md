@@ -4,7 +4,7 @@ I'm Tanya Pal, a web developer passionate about creating awesome things on the w
 
 🔭 I’m currently working on: Oasis Infobyte
 
-🌱 I’m currently learning: Data Structure And Algorithms
+🌱 I’m currently learning: Machine Learning
 
 💬 Ask me about: Web Development
 
